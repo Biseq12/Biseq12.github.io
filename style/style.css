@@ -20,7 +20,6 @@ body{
     overflow: hidden;
     object-fit: cover;
     margin-top: 50%;
-    max-width: 20rem;
     margin-bottom: 17%;
     width: 26rem;
     height: 40rem;
@@ -62,7 +61,6 @@ body{
     height: 5rem;
     background-color: rgb(241, 234, 234);
     border-radius: 0.5rem;
-    max-width: 19rem;
 }
 
 .col2 img {
