@@ -85,8 +85,12 @@ body{
 
 
 #changeBtn{
-    margin-top: 5%;
+    margin-top: 7%;
     color: rgb(91, 9, 168);
+    font-size: small;
+    margin-left: 10%;
+    font-style: 'Red Hat Display', sans-serif;
+    font-weight: 500;
     
 }
 
